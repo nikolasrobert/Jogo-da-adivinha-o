@@ -1,0 +1,1 @@
+Jogo feito com finalidade de executar conhecimentos adquiridos por fundamentos de back-end. O objetivo era ligar o html com o javascript e processar as informações digitadas pelo usuário dinamicamente.
